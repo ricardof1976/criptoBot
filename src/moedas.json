@@ -1,0 +1,10 @@
+{
+  "moedas": [
+    {
+      "simbolo": "BTC/BRL"
+    },
+    {
+      "simbolo": "ETH/BRL"
+    }
+  ]
+}
