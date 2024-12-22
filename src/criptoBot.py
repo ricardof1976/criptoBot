@@ -2,7 +2,6 @@ import ccxt
 import json
 import time
 from datetime import datetime
-from api import app
 
 binance_credentials = {}
 binance = ccxt.binance()
@@ -70,4 +69,3 @@ def monitorar_moedas():
 
 if __name__ == "__main__":
     monitorar_moedas()
-    app.run(debug=True, host="127.0.0.1", port=5000)

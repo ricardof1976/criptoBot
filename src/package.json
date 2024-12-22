@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "flask": "^0.2.10",
+    "pyinstaller": "^0.0.1"
+  }
+}
